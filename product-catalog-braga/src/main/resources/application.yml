@@ -1,0 +1,8 @@
+
+spring:
+  application:
+    name: product-catalog-braga
+
+  cloud:
+    config:
+      url: https://localhost:8888
